@@ -1,4 +1,5 @@
 Flask
+Flask-cors
 gunicorn
 langchain 
 wikipedia 
